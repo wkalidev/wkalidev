@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://wkalidev.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=640&lines=5+dApps+live+on+Celo%2C+Base+%26+Stacks;ERC-8004+AI+agents+%C2%B7+MCP+servers;Smart+contracts+%E2%86%92+frontend+%E2%86%92+deploy;Available+for+freelance+%26+remote+roles" alt="Typing tagline" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=640&lines=7+dApps+live+on+Celo%2C+Base+%26+Stacks;ERC-8004+AI+agents+%C2%B7+MCP+servers;Smart+contracts+%E2%86%92+frontend+%E2%86%92+deploy;Available+for+freelance+%26+remote+roles" alt="Typing tagline" />
   </a>
 </p>
 
@@ -31,86 +31,26 @@
 <!-- ============ PROJECTS ============ -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="32" alt="" /> Live projects
 
-<table>
-<tr>
-<td width="500" valign="top">
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="26" alt="" /> CeloBank Agent
-**Autonomous DeFi agent on Celo**
-
-<a href="https://celobank-agent.vercel.app"><img src="https://img.shields.io/badge/▶_Live-FF2E97?style=flat-square" alt="Live" /></a>
-<img src="https://img.shields.io/badge/Celo-mainnet-35D07F?style=flat-square" alt="Celo" />
-<a href="https://8004scan.xyz/agents/9225"><img src="https://img.shields.io/badge/ERC--8004-100%2F100-00E5FF?style=flat-square&labelColor=0d1117" alt="ERC-8004" /></a>
-
-21 MCP tools · 8 A2A skills · universal swap (26 tokens) · Aave V3 lending · token launcher · GoodDollar G$ · SDK on npm · Self Agent ID #171
-
-</td>
-<td width="500" valign="top">
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="26" alt="" /> TriviaQ
-**On-chain quiz game**
-
-<a href="https://trivia-quest-eight.vercel.app"><img src="https://img.shields.io/badge/▶_Live-FF2E97?style=flat-square" alt="Live" /></a>
-<a href="https://celoscan.io/address/0xe65fc5cacaf9a5aebbc0e151dee08a53f24a05c5"><img src="https://img.shields.io/badge/Celo_+_Base-mainnet-35D07F?style=flat-square" alt="Celo + Base" /></a>
-<a href="https://8004scan.xyz/agents/9055"><img src="https://img.shields.io/badge/ERC--8004-%239055-00E5FF?style=flat-square&labelColor=0d1117" alt="ERC-8004" /></a>
-
-Daily quiz rounds · earn TRIVQ · 1v1 Trivia Duel · check-in streaks · MiniPay compatible · TRIVQ tradable on Ubeswap V3
-
-</td>
-</tr>
-<tr>
-<td width="500" valign="top">
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Coin.png" width="26" alt="" /> Base2Stacks
-**Bitcoin DeFi on Stacks L2**
-
-<a href="https://base2stacks-tracker.vercel.app"><img src="https://img.shields.io/badge/▶_Live-FF2E97?style=flat-square" alt="Live" /></a>
-<a href="https://explorer.hiro.so/address/SP1V72500C63KN9E348QDK9X879MASSTN0J3KBQ5N"><img src="https://img.shields.io/badge/Stacks-mainnet-5546FF?style=flat-square" alt="Stacks" /></a>
-<a href="https://8004scan.xyz/agents/55595"><img src="https://img.shields.io/badge/ERC--8004-%2355595-00E5FF?style=flat-square&labelColor=0d1117" alt="ERC-8004" /></a>
-
-11 Clarity contracts · $B2S staking vault · AMM · governance · prediction market · bridge tracker · 567 NFT badges
-
-</td>
-<td width="500" valign="top">
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" width="26" alt="" /> Stacks Quest
-**Daily on-chain puzzle game**
-
-<a href="https://stacks-quest-ten.vercel.app"><img src="https://img.shields.io/badge/▶_Live-FF2E97?style=flat-square" alt="Live" /></a>
-<img src="https://img.shields.io/badge/Stacks-mainnet-5546FF?style=flat-square" alt="Stacks" />
-<a href="https://8004scan.xyz/agents/55596"><img src="https://img.shields.io/badge/ERC--8004-%2355596-00E5FF?style=flat-square&labelColor=0d1117" alt="ERC-8004" /></a>
-
-Guess real blockchain data · bet $B2S · AI DeFi agent with native swaps via Velar DEX · portfolio tracker
-
-</td>
-</tr>
-<tr>
-<td width="500" valign="top">
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="26" alt="" /> DailyDrop
-**Daily on-chain check-in**
-
-<a href="https://dailydrop-five.vercel.app"><img src="https://img.shields.io/badge/▶_Live-FF2E97?style=flat-square" alt="Live" /></a>
-<a href="https://celoscan.io/address/0xd8Cc2a639a8D4e7A75a5B41C28606712e4fDf70b"><img src="https://img.shields.io/badge/Celo_+_Base-mainnet-35D07F?style=flat-square" alt="Celo + Base" /></a>
-<a href="https://8004scan.xyz/agents/9421"><img src="https://img.shields.io/badge/ERC--8004-%239421-00E5FF?style=flat-square&labelColor=0d1117" alt="ERC-8004" /></a>
-
-Daily check-in · 7-day streaks · earn DROP · MiniPay compatible · Farcaster Frame
-
-</td>
-<td width="500" valign="top">
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="26" alt="" /> CeloSave
-**Non-custodial savings on MiniPay**
-
-<a href="https://github.com/wkalidev/celosave"><img src="https://img.shields.io/badge/◆_Code-FF2E97?style=flat-square" alt="Code" /></a>
-<img src="https://img.shields.io/badge/Celo-mainnet-35D07F?style=flat-square" alt="Celo" />
-<img src="https://img.shields.io/badge/Aave-V3-B6509E?style=flat-square&labelColor=0d1117" alt="Aave V3" />
-
-Deposit USDT, USDC or cUSD into Aave V3 · monthly auto-save via an immutable on-chain router · airtime top-ups · gasless
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://celobank-agent.vercel.app"><img src="./project-celobank-agent.svg" alt="CeloBank Agent" width="49%" /></a>
+  <a href="https://trivia-quest-eight.vercel.app"><img src="./project-triviaq.svg" alt="TriviaQ" width="49%" /></a>
+</p>
+<p align="center">
+  <a href="https://celosave-two.vercel.app"><img src="./project-celosave.svg" alt="CeloSave" width="49%" /></a>
+  <a href="https://volvic.wkalidev.com"><img src="./project-volvic.svg" alt="Volvic" width="49%" /></a>
+</p>
+<p align="center">
+  <a href="https://base2stacks-tracker.vercel.app"><img src="./project-base2stacks.svg" alt="Base2Stacks" width="49%" /></a>
+  <a href="https://stacks-quest-ten.vercel.app"><img src="./project-stacks-quest.svg" alt="Stacks Quest" width="49%" /></a>
+</p>
+<p align="center">
+  <a href="https://dailydrop-five.vercel.app"><img src="./project-dailydrop.svg" alt="DailyDrop" width="49%" /></a>
+  <a href="https://chainwarden.vercel.app"><img src="./project-chainwarden.svg" alt="ChainWarden" width="49%" /></a>
+</p>
+<p align="center">
+  <a href="https://multichain-mcp.vercel.app"><img src="./project-multichain-mcp.svg" alt="Multichain MCP" width="49%" /></a>
+  <a href="https://multichain-tax-mcp.vercel.app"><img src="./project-multichain-tax-mcp.svg" alt="Multichain Tax MCP" width="49%" /></a>
+</p>
 
 <br/>
 
@@ -119,7 +59,6 @@ Deposit USDT, USDC or cUSD into Aave V3 · monthly auto-save via an immutable on
 
 | Project | What it does | npm |
 |---|---|---|
-| [multichain-mcp](https://github.com/wkalidev/multichain-mcp) | MCP server giving AI agents Stacks, Celo and Base in one package | — |
 | [unlock-mcp](https://github.com/wkalidev/unlock-mcp) | Read-only MCP server to check Unlock Protocol memberships on-chain | — |
 | [`@celobank/agent-sdk`](https://www.npmjs.com/package/@celobank/agent-sdk) | CeloBank Agent TypeScript SDK | ![npm](https://img.shields.io/npm/v/@celobank/agent-sdk?style=flat-square&color=FF2E97&label=) |
 | [`@wkalidev/trivia-quest-sdk`](https://www.npmjs.com/package/@wkalidev/trivia-quest-sdk) | TriviaQ smart contracts SDK | ![npm](https://img.shields.io/npm/v/@wkalidev/trivia-quest-sdk?style=flat-square&color=FF2E97&label=) |
@@ -215,7 +154,7 @@ Deposit USDT, USDC or cUSD into Aave V3 · monthly auto-save via an immutable on
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/5-dApps-FF2E97?style=flat-square&labelColor=0d1117" alt="5 dApps" />
+  <img src="https://img.shields.io/badge/7-dApps-FF2E97?style=flat-square&labelColor=0d1117" alt="7 dApps" />
   <img src="https://img.shields.io/badge/5-SDKs-7B2FF7?style=flat-square&labelColor=0d1117" alt="5 SDKs" />
   <img src="https://img.shields.io/badge/3-chains-00E5FF?style=flat-square&labelColor=0d1117" alt="3 chains" />
   <img src="https://img.shields.io/badge/1-builder-35D07F?style=flat-square&labelColor=0d1117" alt="1 builder" />
