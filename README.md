@@ -14,6 +14,9 @@
   <a href="https://x.com/willycodexwar"><img src="https://img.shields.io/badge/@willycodexwar-0d1117?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://farcaster.xyz/willywarrior"><img src="https://img.shields.io/badge/willywarrior-855DCD?style=for-the-badge&logo=farcaster&logoColor=white" alt="Farcaster" /></a>
   <a href="https://talent.app/u/zcodebase"><img src="https://img.shields.io/badge/Talent-zcodebase-00E5FF?style=for-the-badge&labelColor=0d1117" alt="Talent" /></a>
+  <br/>
+  <a href="https://www.youtube.com/@wkalidev"><img src="https://img.shields.io/badge/YouTube-@wkalidev-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://www.facebook.com/wkalidev"><img src="https://img.shields.io/badge/Facebook-wkalidev-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 </p>
 
 <br/>
@@ -149,6 +152,18 @@ Deposit USDT, USDC or cUSD into Aave V3 · monthly auto-save via an immutable on
 
 <br/>
 
+<!-- ============ CONTENT ============ -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clapper%20Board.png" width="32" alt="" /> Content
+
+Daily Web3 Shorts — **Spot the Bug** (find the vulnerability in a smart contract) and **AI × Web3** (agents, MCP, on-chain AI).
+
+<p align="center">
+  <a href="https://www.youtube.com/@wkalidev"><img src="https://img.shields.io/badge/Watch_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube" /></a>
+  <a href="https://www.facebook.com/wkalidev"><img src="https://img.shields.io/badge/Follow_on_Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Follow on Facebook" /></a>
+</p>
+
+<br/>
+
 <!-- ============ 3D CONTRIBUTIONS ============ -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="32" alt="" /> Contributions in 3D
 
@@ -161,32 +176,94 @@ Deposit USDT, USDC or cUSD into Aave V3 · monthly auto-save via an immutable on
 <!-- ============ RECOGNITION ============ -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="32" alt="" /> Recognition
 
-- **Celo Proof of Ship** — multiple rounds (2025–2026)
-- **5 ERC-8004 agents** registered on-chain · **Self Agent ID #171** (ZK passport verified)
-- **$TRIVQ** listed on Ubeswap V3 (Celo mainnet)
-- **Talent.app** — 1,400+ contributions tracked
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sports%20Medal.png" width="56" alt="" /><br/>
+<h3>Proof of Ship</h3>
+<sub>Celo · multiple rounds<br/>2025 – 2026</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="56" alt="" /><br/>
+<h3>5 agents</h3>
+<sub>ERC-8004 registered<br/>on-chain</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="56" alt="" /><br/>
+<h3>ID #171</h3>
+<sub>Self Agent ID<br/>ZK passport verified</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Coin.png" width="56" alt="" /><br/>
+<h3>$TRIVQ</h3>
+<sub>Listed on Ubeswap V3<br/>Celo mainnet</sub>
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Talent.app-1%2C400%2B_contributions_tracked-00E5FF?style=for-the-badge&labelColor=0d1117" alt="Talent.app" />
+</p>
 
 <br/>
 
 <!-- ============ HIRE ============ -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="32" alt="" /> Work with me
 
-I build production dApps end to end — from architecture to deployment.
+<p align="center"><b>I build production dApps end to end — from architecture to deployment.</b></p>
 
-| | |
-|---|---|
-| **Smart contracts** | Solidity (EVM) & Clarity (Stacks), lightweight security reviews |
-| **Full dApps** | Next.js, TypeScript, wagmi/viem, Node.js APIs |
-| **DeFi & payments** | Aave, DEX, staking, ERC-20 / NFT, stablecoins (USDC, cUSD) |
-| **AI tooling** | MCP servers, autonomous agents, LLM integrations |
-| **Compliance** | Wallet screening against OFAC / EU sanctions |
+<table>
+<tr>
+<td align="center" width="33%" valign="top">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" width="52" alt="" /><br/>
+<h3>Smart contracts</h3>
+<sub>Solidity (EVM) & Clarity (Stacks)<br/>Lightweight security reviews</sub>
+</td>
+<td align="center" width="33%" valign="top">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="52" alt="" /><br/>
+<h3>Full dApps</h3>
+<sub>Next.js · TypeScript · wagmi/viem<br/>Node.js APIs</sub>
+</td>
+<td align="center" width="33%" valign="top">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Money%20Bag.png" width="52" alt="" /><br/>
+<h3>DeFi & payments</h3>
+<sub>Aave · DEX · staking · ERC-20 / NFT<br/>Stablecoins (USDC, cUSD)</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%" valign="top">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="52" alt="" /><br/>
+<h3>AI tooling</h3>
+<sub>MCP servers · autonomous agents<br/>LLM integrations</sub>
+</td>
+<td align="center" width="33%" valign="top">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="52" alt="" /><br/>
+<h3>Compliance</h3>
+<sub>Wallet screening against<br/>OFAC / EU sanctions</sub>
+</td>
+<td align="center" width="33%" valign="top">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="52" alt="" /><br/>
+<h3>Fast delivery</h3>
+<sub>Hackathons & grant deadlines<br/>Architecture → deploy, solo</sub>
+</td>
+</tr>
+</table>
+
+<br/>
 
 <p align="center">
-  <a href="https://wkalidev.com"><img src="https://img.shields.io/badge/Let's_build_together-wkalidev.com-FF2E97?style=for-the-badge&labelColor=0d1117" alt="Contact" /></a>
+  <a href="https://wkalidev.com"><img src="https://img.shields.io/badge/✦_Let's_build_together-FF2E97?style=for-the-badge" alt="Let's build together" height="40" /></a>
+  &nbsp;
+  <a href="https://x.com/willycodexwar"><img src="https://img.shields.io/badge/DM_on_X-0d1117?style=for-the-badge&logo=x&logoColor=white" alt="DM on X" height="40" /></a>
 </p>
 
+<br/>
+
 <p align="center">
-  <sub>5 dApps · 5 SDKs · 3 chains · 1 builder</sub>
+  <img src="https://img.shields.io/badge/5-dApps-FF2E97?style=flat-square&labelColor=0d1117" alt="5 dApps" />
+  <img src="https://img.shields.io/badge/5-SDKs-7B2FF7?style=flat-square&labelColor=0d1117" alt="5 SDKs" />
+  <img src="https://img.shields.io/badge/3-chains-00E5FF?style=flat-square&labelColor=0d1117" alt="3 chains" />
+  <img src="https://img.shields.io/badge/1-builder-35D07F?style=flat-square&labelColor=0d1117" alt="1 builder" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2E97,50:7B2FF7,100:00E5FF&height=110&section=footer" alt="" width="100%" />
