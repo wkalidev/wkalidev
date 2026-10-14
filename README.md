@@ -10,6 +10,7 @@
 </p>
 
 <p align="center">
+  <a href="https://about.wkalidev.com/media-kit"><img src="https://img.shields.io/badge/Hire_me_·_Audits_from_€350-C6F432?style=for-the-badge&logo=securityscorecard&logoColor=0d1117&labelColor=C6F432" alt="Hire me · Smart contract audits" /></a>
   <a href="https://wkalidev.com"><img src="https://img.shields.io/badge/wkalidev.com-FF2E97?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="https://x.com/willycodexwar"><img src="https://img.shields.io/badge/@willycodexwar-0d1117?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://farcaster.xyz/willywarrior"><img src="https://img.shields.io/badge/willywarrior-855DCD?style=for-the-badge&logo=farcaster&logoColor=white" alt="Farcaster" /></a>
@@ -17,6 +18,8 @@
   <br/>
   <a href="https://www.youtube.com/@wkalidev"><img src="https://img.shields.io/badge/YouTube-@wkalidev-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://www.facebook.com/wkalidev"><img src="https://img.shields.io/badge/Facebook-wkalidev-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://www.instagram.com/wkalidev"><img src="https://img.shields.io/badge/Instagram-@wkalidev-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.tiktok.com/@wkalidev"><img src="https://img.shields.io/badge/TikTok-@wkalidev-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
 </p>
 
 <br/>
@@ -101,6 +104,8 @@
 <p align="center">
   <a href="https://www.youtube.com/@wkalidev"><img src="https://img.shields.io/badge/Watch_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube" /></a>
   <a href="https://www.facebook.com/wkalidev"><img src="https://img.shields.io/badge/Follow_on_Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Follow on Facebook" /></a>
+  <a href="https://www.instagram.com/wkalidev"><img src="https://img.shields.io/badge/Follow_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow on Instagram" /></a>
+  <a href="https://www.tiktok.com/@wkalidev"><img src="https://img.shields.io/badge/Follow_on_TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="Follow on TikTok" /></a>
   <a href="https://about.wkalidev.com/media-kit"><img src="https://img.shields.io/badge/Sponsor_·_Media_kit-FF2E97?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Media kit" /></a>
 </p>
 
