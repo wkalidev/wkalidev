@@ -63,6 +63,7 @@
 
 | Project | What it does | npm |
 |---|---|---|
+| [**Spot the Bug**](https://github.com/marketplace/actions/spot-the-bug) 🔍 | GitHub Action — catches Solidity vulnerabilities in every pull request ([live demo](https://github.com/wkalidev/spot-the-bug-demo/pull/1)) | [![Marketplace](https://img.shields.io/badge/Marketplace-v1-C6F432?style=flat-square&logo=githubactions&logoColor=0d1117&labelColor=C6F432)](https://github.com/marketplace/actions/spot-the-bug) |
 | [unlock-mcp](https://github.com/wkalidev/unlock-mcp) | Read-only MCP server to check Unlock Protocol memberships on-chain | — |
 | [`@celobank/agent-sdk`](https://www.npmjs.com/package/@celobank/agent-sdk) | CeloBank Agent TypeScript SDK | ![npm](https://img.shields.io/npm/v/@celobank/agent-sdk?style=flat-square&color=FF2E97&label=) |
 | [`@wkalidev/trivia-quest-sdk`](https://www.npmjs.com/package/@wkalidev/trivia-quest-sdk) | TriviaQ smart contracts SDK | ![npm](https://img.shields.io/npm/v/@wkalidev/trivia-quest-sdk?style=flat-square&color=FF2E97&label=) |
@@ -130,6 +131,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Talent.app-1%2C400%2B_contributions_tracked-00E5FF?style=for-the-badge&labelColor=0d1117" alt="Talent.app" />
+  <img src="https://img.shields.io/badge/GitHub-Developer_Program_Member-C6F432?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=C6F432" alt="GitHub Developer Program Member" />
 </p>
 
 <br/>
