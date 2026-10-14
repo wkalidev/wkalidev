@@ -20,6 +20,7 @@
   <a href="https://www.facebook.com/wkalidev"><img src="https://img.shields.io/badge/Facebook-wkalidev-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
   <a href="https://www.instagram.com/wkalidev"><img src="https://img.shields.io/badge/Instagram-@wkalidev-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://www.tiktok.com/@wkalidev"><img src="https://img.shields.io/badge/TikTok-@wkalidev-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+  <a href="https://t.me/wkalidev"><img src="https://img.shields.io/badge/Telegram-@wkalidev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 </p>
 
 <br/>
@@ -148,6 +149,8 @@
   <a href="https://wkalidev.com"><img src="https://img.shields.io/badge/✦_Let's_build_together-FF2E97?style=for-the-badge" alt="Let's build together" height="40" /></a>
   &nbsp;
   <a href="https://x.com/willycodexwar"><img src="https://img.shields.io/badge/DM_on_X-0d1117?style=for-the-badge&logo=x&logoColor=white" alt="DM on X" height="40" /></a>
+  &nbsp;
+  <a href="https://t.me/wkalidev"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" height="40" /></a>
   &nbsp;
   <a href="mailto:wkalidev@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40" /></a>
 </p>
